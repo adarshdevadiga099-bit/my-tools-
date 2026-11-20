@@ -1,0 +1,8 @@
+age = input("enter your name : ")
+print("Hello, " + age + "!")
+boy_name = input("enter your boy name : ")
+boy_age = input("enter your boy age : ")
+girl_name = input("enter your girl name : ")    
+girl_age = input("enter your girl age : ")
+print("Hello, " + boy_name + "! You are " + boy_age + " years old.")
+print("Hello, " + girl_name + "! You are " + girl_age + " years old.")
